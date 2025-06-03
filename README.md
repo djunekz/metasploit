@@ -1,7 +1,7 @@
 <h1 align="center">[ Metasploit Installer ]</h1>
 <h4 align="center">[ Simple Instalation Metasploit for Termux ]</h4>
 <p align="center">
-<a href="https://github.com/djunekz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=AUTHOR&message=DJUNEKZ&color=blue")</a>
+<a href="https://github.com/djunekz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=AUTHOR&message=DJUNEKZ&color=blue")</a><br>
 <img src="https://img.shields.io/static/v1?label=Android&logo=android&logoColor=green&color=green&message=Support&style=flat">
 		
  
